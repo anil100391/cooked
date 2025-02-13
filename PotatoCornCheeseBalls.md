@@ -1,4 +1,5 @@
 # Potato Corn Cheese Balls
+![](snaps/PotatoCornCheeseBalls.jpeg)
 Potato Corn Cheese Balls are a delicious snack made with boiled potatoes, sweet corn, and cheese. They are crispy on the outside and soft on the inside. These balls are perfect for parties, picnics, or as a teatime snack. You can serve them with ketchup or any other dip of your choice. Here is how you can make Potato Corn Cheese Balls at home.
 
 ## Ingredients
@@ -21,5 +22,4 @@ Potato Corn Cheese Balls are a delicious snack made with boiled potatoes, sweet 
 6. Serve the Potato Corn Cheese Balls hot with ketchup or any other dip of your choice.
 
 Enjoy your delicious Potato Corn Cheese Balls!
-![](snaps/PotatoCornCheeseBalls.jpeg)
 
